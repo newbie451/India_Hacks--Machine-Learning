@@ -1,4 +1,4 @@
-# Approach for Will-Bill-Solve-It, India_Hacks-Machine Learning
+# Solution for India_Hacks-Machine Learning
 Solution which placed 15th on LeaderBoard.
 
 https://www.hackerearth.com/machine-learning-india-hacks-2016/machine-learning/will-bill-solve-it/
